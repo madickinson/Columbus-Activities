@@ -13,6 +13,6 @@
  - Scioto Audubon
    - Scioto Audubon Metro Park: 400 W Whittier St, Columbus, OH 43215
    - Grange Insurance Audubon Center: 505 W Whittier St, Columbus, OH 43215
-### Kid Friendly
+
 
 ### Restaurants
